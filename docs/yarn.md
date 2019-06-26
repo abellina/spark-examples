@@ -146,7 +146,7 @@ This is the full variable listing, if you are running the CPU example from scrat
 # location where data was downloaded 
 export DATA_PATH=hdfs:/tmp/xgboost4j_spark/data
 
-# location where required jar were downloaded
+# location where required jar was downloaded
 export JARS_PATH=hdfs:/tmp/xgboost4j_spark/jars
 
 # spark deploy mode (see Apache Spark documentation for more information) 
